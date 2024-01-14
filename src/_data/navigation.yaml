@@ -1,9 +1,9 @@
 items:
   - text: Home
     url: /home
-  - text: about
+  - text: About
     url: /about
-  - text: models
+  - text: Models
     url: /models
   - text: Blog
     url: /blog
